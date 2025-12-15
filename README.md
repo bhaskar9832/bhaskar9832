@@ -88,8 +88,8 @@ I'm not chasing perfection; I'm building consistency and resilience.
 ---
 
 ## 📫 Connect With Me
-- **Email:** bhaskarsarkarofficial03@gmail.com  
-- **LinkedIn:** *(add if you want — I can include it)*  
+- **Email:** bhaskarsrkr21@gmail.com  
+- **LinkedIn:** *(linkedin.com/in/bhaskarsarkar097)*  
 
 ---
 
