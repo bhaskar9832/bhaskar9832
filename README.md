@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Input%20text&section=header&reversal=false&fontColor=black&fontSize=100&fontAlign=43&animation=twinkling&stroke=00F00" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=097969&text=Bhaskar&section=header&reversal=false&desc=Sarkar&fontColor=FFAE42&fontSize=100&fontAlign=43&animation=twinkling&stroke=00F00&descAlign=50&descAlignY=63&descSize=30&fontAlignY=46&strokeWidth=565&textBg=false" />
 </p>
 
 <h2 align="center">👋 Hello ! I'm Bhaskar </h2>
