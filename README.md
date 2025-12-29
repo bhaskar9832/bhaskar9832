@@ -21,4 +21,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bhaskar9832&icon=6&color=6)](https://visitcount.itsvg.in)
 
+## 🧭 Philosophy
+I don’t talk about goals — I show results.  
+I value truth, accuracy, and discipline.  
+I'm not chasing perfection; I'm building consistency and resilience.
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
