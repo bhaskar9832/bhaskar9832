@@ -39,5 +39,21 @@ I value truth, accuracy, and discipline.
 I'm not chasing perfection; I'm building consistency and resilience.
 
 
+## 🧠 GitHub Metrics (Advanced)
+<p align="center">
+  <img src="https://github.com/bhaskar9832/bhaskar9832/blob/main/github-metrics.svg" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Consistency beats motivation. Systems beat goals.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
