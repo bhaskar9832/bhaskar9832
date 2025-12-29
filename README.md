@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhaskar%20Sarkar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Input%20text&section=header&reversal=false&fontColor=black&fontSize=100&fontAlign=43&animation=twinkling&stroke=00F00" />
 </p>
 
 <h2 align="center">👋 Hello ! I'm Bhaskar </h2>
@@ -39,20 +39,6 @@ I value truth, accuracy, and discipline.
 I'm not chasing perfection; I'm building consistency and resilience.
 
 
-## 🧠 GitHub Metrics (Advanced)
-<p align="center">
-  <img src="https://github.com/bhaskar9832/bhaskar9832/blob/main/github-metrics.svg" />
-</p>
-
----
-
-<p align="center">
-  <i>“Consistency beats motivation. Systems beat goals.”</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
 
 
 
