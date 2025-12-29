@@ -1,97 +1,24 @@
-<h1 align="center">Hi, I'm Bhaskar Sarkar 👋</h1>
-<h3 align="center">Software Developer | AI Engineer | Builder of Practical, Real-World Systems</h3>
+# 💫 About Me:
+👨‍💻 About Me<br>I’m a software engineer who moves quietly but builds consistently.<br>I learn fast, notice details others miss, and create systems that work in the real world — not just on paper.<br><br>Right now, I'm focused on AI-powered learning tools, full-stack development, and backend engineering.<br>Every mistake is just data — I study it, improve, and move forward. No shortcuts, no noise, just honest progress.<br><br>🔥 What I Do<br>🎓 Build AI-powered education systems <br><br>🖥 Fullstack development with React, Node.js, Flask, Vite<br>☁️ Deploy backend services on Render / AWS<br>🧰 Integrate APIs like Gemini, YouTube Data API, Supabase, Stripe<br>🗄 Database design using MySQL / PostgreSQL
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Fullstack%20Dev-blue" />
-  <img src="https://img.shields.io/badge/Learning-Deep%20Learning%20%7C%20Cloud-orange" />
-  <img src="https://img.shields.io/badge/Location-India-green" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhaskarsarkar097) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:programmerbhaskar81@gmail.com) 
 
-## 👨‍💻 About Me  
-I’m a software engineer who moves quietly but builds consistently.  
-I learn fast, notice details others miss, and create systems that work in the real world — not just on paper.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhaskar9832&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bhaskar9832&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar9832&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Right now, I'm focused on **AI-powered learning tools**, full-stack development, and backend engineering.  
-Every mistake is just data — I study it, improve, and move forward. No shortcuts, no noise, just honest progress.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhaskar9832&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-## 🔥 What I Do  
-- 🎓 Build **AI-powered education systems** (StudyAI, AI-Tuition)  
-- 🧠 Create **PDF → Summary → Quiz → Flashcards → Video Recommendation** pipelines  
-- 🖥 Fullstack development with **React, Node.js, Flask, Vite**  
-- ☁️ Deploy backend services on **Render / AWS**  
-- 🧰 Integrate APIs like **Gemini, YouTube Data API, Supabase, Stripe**  
-- 🗄 Database design using **MySQL / PostgreSQL**  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bhaskar9832&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=bhaskar9832&icon=6&color=6)](https://visitcount.itsvg.in)
 
-## 🚀 Tech Stack  
-### **Languages**
-`Java` · `Python` · `JavaScript` · `TypeScript` · `SQL`
-
-### **Frontend**
-`React` · `Vite` · `HTML` · `CSS` · `Tailwind`
-
-### **Backend**
-`Flask` · `Express.js` · `Node.js` · `JWT Auth`
-
-### **Databases**
-`MySQL` · `PostgreSQL (Supabase)`  
-
-### **Tools & Cloud**
-`Supabase` · `AWS` · `Render` · `Postman` · `Git` · `Sentry`
-
----
-
-## 📌 Featured Projects
-
-### 🔹 **StudyAI — AI-Powered Study Assistant**
-AI that reads your PDF and generates:
-- Summary  
-- Key points  
-- Flashcards  
-- Quizzes  
-- Recommend YouTube videos  
-- Mindmaps  
-Tech: *React, Flask, Gemini API, Supabase*
-
----
-
-### 🔹 **AI-Tution**
-A personalized AI tutoring system.  
-Tech: *TypeScript · React · Node.js*
-
----
-
-### 🔹 **Library Management System**
-Complete Java-based application for library operations.  
-Tech: *Java · OOP · MySQL*
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bhaskar9832&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar9832&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🧭 Philosophy
-I don’t talk about goals — I show results.  
-I value truth, accuracy, and discipline.  
-I'm not chasing perfection; I'm building consistency and resilience.
-
----
-
-## 📫 Connect With Me
-- **Email:** bhaskarsrkr21@gmail.com  
-- **LinkedIn:** *(linkedin.com/in/bhaskarsarkar097)*  
-
----
-
-### ⭐ If you like my work, feel free to star ⭐ my repositories!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
