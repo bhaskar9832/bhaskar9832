@@ -1,3 +1,15 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhaskar%20Sarkar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h2 align="center">👋 Hello ! I'm Bhaskar </h2>
+<h4 align="center">Full Stack Developer • Backend Focused • System Thinker</h4>
+
+
+
+
+
 # 💫 About Me:
 👨‍💻 About Me<br>I’m a software engineer who moves quietly but builds consistently.<br>I learn fast, notice details others miss, and create systems that work in the real world — not just on paper.<br><br>Right now, I'm focused on AI-powered learning tools, full-stack development, and backend engineering.<br>Every mistake is just data — I study it, improve, and move forward. No shortcuts, no noise, just honest progress.<br><br>🔥 What I Do<br>🎓 Build AI-powered education systems <br>🖥 Fullstack development with React, Node.js, Flask, Vite<br>☁️ Deploy backend services on Render / AWS<br>🧰 Integrate APIs like Gemini, YouTube Data API, Supabase, Stripe<br>🗄 Database design using MySQL / PostgreSQL
 
