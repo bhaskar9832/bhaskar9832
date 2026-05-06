@@ -1,76 +1,10 @@
 <!-- HEADER BANNER - STAR WARS STYLE WITH ANIMATION -->
 <p align="center">
-  <svg width="100%" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <style>
-        @keyframes typewriter {
-          0% { width: 0; }
-          100% { width: 100%; }
-        }
-        @keyframes blink {
-          0%, 49% { border-right: 3px solid #FFD700; }
-          50%, 100% { border-right: 3px solid transparent; }
-        }
-        @keyframes fadeInLetters {
-          0% { opacity: 0; }
-          100% { opacity: 1; }
-        }
-        .star-wars-text {
-          font-family: 'Arial Black', sans-serif;
-          font-size: 72px;
-          font-weight: bold;
-          fill: #FFD700;
-          text-anchor: middle;
-          letter-spacing: 2px;
-        }
-        .letter {
-          animation: fadeInLetters 0.1s ease-in-out forwards;
-        }
-        .subtitle {
-          font-family: 'Arial', sans-serif;
-          font-size: 32px;
-          fill: #FFD700;
-          text-anchor: middle;
-          animation: fadeInLetters 0.8s ease-in-out 3s forwards;
-          opacity: 0;
-        }
-      </style>
-    </defs>
-    
-    <!-- Black background -->
-    <rect width="1000" height="300" fill="#000000"/>
-    
-    <!-- Main text with staggered animation -->
-    <text class="star-wars-text" x="500" y="100">
-      <tspan class="letter" style="animation-delay: 0s;">H</tspan>
-      <tspan class="letter" style="animation-delay: 0.1s;">e</tspan>
-      <tspan class="letter" style="animation-delay: 0.2s;">y</tspan>
-      <tspan class="letter" style="animation-delay: 0.3s;"> </tspan>
-      <tspan class="letter" style="animation-delay: 0.4s;">F</tspan>
-      <tspan class="letter" style="animation-delay: 0.5s;">o</tspan>
-      <tspan class="letter" style="animation-delay: 0.6s;">l</tspan>
-      <tspan class="letter" style="animation-delay: 0.7s;">k</tspan>
-      <tspan class="letter" style="animation-delay: 0.8s;">s</tspan>
-    </text>
-    
-    <text class="star-wars-text" x="500" y="160">
-      <tspan class="letter" style="animation-delay: 1s;">i</tspan>
-      <tspan class="letter" style="animation-delay: 1.1s;"> </tspan>
-      <tspan class="letter" style="animation-delay: 1.2s;">a</tspan>
-      <tspan class="letter" style="animation-delay: 1.3s;">m</tspan>
-      <tspan class="letter" style="animation-delay: 1.4s;"> </tspan>
-      <tspan class="letter" style="animation-delay: 1.5s;">B</tspan>
-      <tspan class="letter" style="animation-delay: 1.6s;">h</tspan>
-      <tspan class="letter" style="animation-delay: 1.7s;">a</tspan>
-      <tspan class="letter" style="animation-delay: 1.8s;">s</tspan>
-      <tspan class="letter" style="animation-delay: 1.9s;">k</tspan>
-      <tspan class="letter" style="animation-delay: 2s;">a</tspan>
-      <tspan class="letter" style="animation-delay: 2.1s;">r</tspan>
-    </text>
-    
-    <!-- Subtitle -->
-    <text class="subtitle" x="500" y="240">Welcome to my profile</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=starwars&height=300&color=000000&text=Hey%20Folks&section=header&reversal=false&desc=i%20am%20Bhaskar%20Sarkar&fontColor=FFD700&fontSize=55&fontAlign=50&animation=fadeIn&descSize=40" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=starwars&height=150&color=000000&text=Welcome%20to%20my%20profile&section=footer&reversal=false&fontColor=FFD700&fontSize=40&fontAlign=50&animation=fadeIn" />
 </p>
 
 <h2 align="center">👋 Hello ! I'm Bhaskar </h2>
