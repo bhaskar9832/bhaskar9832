@@ -1,6 +1,6 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER - STAR WARS STYLE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=097969&text=Bhaskar&section=header&reversal=false&desc=Sarkar&fontColor=FFAE42&fontSize=100&fontAlign=43&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=starwars&height=300&color=000000&text=Hey%20Folks%20i%20am%20Bhaskar%20Sarkar&section=header&reversal=false&desc=Welcome%20to%20my%20profile&fontColor=FFD700&fontSize=60&fontAlign=50&animation=fadeIn" />
 </p>
 
 <h2 align="center">👋 Hello ! I'm Bhaskar </h2>
