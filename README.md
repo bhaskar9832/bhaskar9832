@@ -1,10 +1,8 @@
-<!-- HEADER BANNER - STAR WARS STYLE WITH ANIMATION -->
+<!-- HEADER BANNER - STAR WARS STYLE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=starwars&height=300&color=000000&text=Hey%20Folks&section=header&reversal=false&desc=i%20am%20Bhaskar%20Sarkar&fontColor=FFD700&fontSize=55&fontAlign=50&animation=fadeIn&descSize=40" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=starwars&height=150&color=000000&text=Welcome%20to%20my%20profile&section=footer&reversal=false&fontColor=FFD700&fontSize=40&fontAlign=50&animation=fadeIn" />
+  <a href="https://github.com/bhaskar9832">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=900&height=100&lines=Hey+Folks;I+am+Bhaskar+Sarkar;Welcome+to+my+profile" alt="Typing SVG" />
+  </a>
 </p>
 
 <h2 align="center">👋 Hello ! I'm Bhaskar </h2>
