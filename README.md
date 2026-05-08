@@ -48,9 +48,11 @@
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=bhaskar9832&repo=Codeforces-problem&theme=tokyonight&hide_border=true" 
-  />
+  <a href="https://github.com/bhaskar9832/Codeforces-problem">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=bhaskar9832&repo=Codeforces-problem&theme=tokyonight&hide_border=true" 
+    />
+  </a>
 </p>
 
 ## 🧭 Philosophy
