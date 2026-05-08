@@ -45,11 +45,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhaskar9832&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhaskar9832&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
 
----
-[![](https://visitcount.itsvg.in/api?id=bhaskar9832&icon=6&color=6)](https://visitcount.itsvg.in)
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=bhaskar9832&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
+    alt="Top Contributed Repo"
+  />
+</p>
 
 ## 🧭 Philosophy
 I don't talk about goals — I show results.  
