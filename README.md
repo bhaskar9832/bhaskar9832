@@ -64,15 +64,27 @@ I'm not chasing perfection; I'm building consistency and resilience.
 
 ---
 
+---
+
 # ⚡ Overall GitHub Activity
 
 <div align="center">
 
 [![Bhaskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhaskar9832&bg_color=0d1117&color=00e5ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&radius=18)](https://github.com/bhaskar9832)
 
+<br/>
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhaskar9832&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar9832&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117" />
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar9832&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117" />
+
 </div>
 
 ---
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
