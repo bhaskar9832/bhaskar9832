@@ -60,6 +60,17 @@ I don't talk about goals — I show results.
 I value truth, accuracy, and discipline.  
 I'm not chasing perfection; I'm building consistency and resilience.
 
+---
+
+# ⚡ GitHub Activity Graph
+
+<div align="center">
+
+[![Bhaskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhaskar9832&custom_title=RentEasy%20Development%20Journey&bg_color=0d1117&color=58a6ff&line=7c3aed&point=facc15&area=true&hide_border=true&radius=16)](https://github.com/bhaskar9832)
+
+</div>
+
+---
 
 
 
