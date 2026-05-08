@@ -113,4 +113,6 @@ I'm not chasing perfection; I'm building consistency and resilience.
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
