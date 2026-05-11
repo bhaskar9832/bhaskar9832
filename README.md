@@ -64,7 +64,6 @@ I'm not chasing perfection; I'm building consistency and resilience.
 <br/>
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaskar9832&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=20" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar9832&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=facc15&currStreakLabel=58a6ff" />
 
