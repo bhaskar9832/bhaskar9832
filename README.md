@@ -90,5 +90,31 @@ I'm not chasing perfection; I'm building consistency and resilience.
 
 </div>
 
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <h3>🧩 Contributed To</h3>
+      <p>
+        <a href="https://github.com/bhaskar9832/RentEasy">bhaskar9832/RentEasy</a><br>
+        <a href="https://github.com/bhaskar9832/Codeforces-problem">bhaskar9832/Codeforces-problem</a><br>
+        <a href="https://github.com/bhaskar9832/HackerRank-problem">bhaskar9832/HackerRank-problem</a><br>
+        <a href="https://github.com/bhaskar9832/Leetcode-problem">bhaskar9832/Leetcode-problem</a>
+      </p>
+    </td>
+    <td width="55%" valign="top">
+      <h3>⚡ Activity Type</h3>
+      <p>
+        <b>Commits</b> ████████████████████ 100%<br>
+        <b>Pull Requests</b> ░░░░░░░░░░░░░░░░░░░░ 0%<br>
+        <b>Issues</b> ░░░░░░░░░░░░░░░░░░░░ 0%<br>
+        <b>Code Review</b> ░░░░░░░░░░░░░░░░░░░░ 0%
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
