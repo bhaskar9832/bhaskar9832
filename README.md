@@ -92,29 +92,68 @@ I'm not chasing perfection; I'm building consistency and resilience.
 
 <div align="center">
 
+<div align="center">
+
+## ⚡ Activity Overview
+
 <table>
-  <tr>
-    <td width="45%" valign="top">
-      <h3>🧩 Contributed To</h3>
-      <p>
-        <a href="https://github.com/bhaskar9832/RentEasy">bhaskar9832/RentEasy</a><br>
-        <a href="https://github.com/bhaskar9832/Codeforces-problem">bhaskar9832/Codeforces-problem</a><br>
-        <a href="https://github.com/bhaskar9832/HackerRank-problem">bhaskar9832/HackerRank-problem</a><br>
-        <a href="https://github.com/bhaskar9832/Leetcode-problem">bhaskar9832/Leetcode-problem</a>
-      </p>
-    </td>
-    <td width="55%" valign="top">
-      <h3>⚡ Activity Type</h3>
-      <p>
-        <b>Commits</b> ████████████████████ 100%<br>
-        <b>Pull Requests</b> ░░░░░░░░░░░░░░░░░░░░ 0%<br>
-        <b>Issues</b> ░░░░░░░░░░░░░░░░░░░░ 0%<br>
-        <b>Code Review</b> ░░░░░░░░░░░░░░░░░░░░ 0%
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧩 Contributed To</h3>
+
+<table>
+<tr>
+<td>
+
+<p>
+🚀 <a href="https://github.com/bhaskar9832/RentEasy"><b>bhaskar9832/RentEasy</b></a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Student accommodation finder platform
+</p>
+
+<p>
+⚔️ <a href="https://github.com/bhaskar9832/Codeforces-problem"><b>bhaskar9832/Codeforces-problem</b></a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Competitive programming solutions
+</p>
+
+<p>
+🧠 <a href="https://github.com/bhaskar9832/HackerRank-problem"><b>bhaskar9832/HackerRank-problem</b></a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Java-based problem solving practice
+</p>
+
+<p>
+🌌 <a href="https://github.com/bhaskar9832/Leetcode-problem"><b>bhaskar9832/Leetcode-problem</b></a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;DSA and interview-level coding problems
+</p>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>⚡ Activity Type</h3>
+
+<pre>
+╔════════════════════════════════════╗
+║            CODE REVIEW            ║
+╚════════════════════════════════════╝
+                 │
+                 │
+                 │
+COMMITS 100% ────●──── ISSUES 0%
+                 │
+                 │
+                 │
+╔════════════════════════════════════╗
+║          PULL REQUESTS 0%          ║
+╚════════════════════════════════════╝
+</pre>
+
+</td>
+</tr>
 </table>
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
