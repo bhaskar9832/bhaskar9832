@@ -84,15 +84,32 @@ I'm not chasing perfection; I'm building consistency and resilience.
 </div>
 
 ---
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<h2>
+  🐍 GitHub Contribution Snake
+</h2>
+
+<img src="https://raw.githubusercontent.com/bhaskar9832/bhaskar9832/output/github-snake-dark.svg?v=31" alt="GitHub Contribution Snake" />
+
+<br>
+
+<p>
+  <code>Less</code>
+  &nbsp;
+  <span>⬛</span>
+  <span>🟪</span>
+  <span>🟦</span>
+  <span>🟨</span>
+  <span>🟧</span>
+  &nbsp;
+  <code>More</code>
+</p>
+
 
 </div>
 
-<div align="center">
-
-<div align="center">
 
 ## ⚡ Activity Overview
 
@@ -157,32 +174,4 @@ COMMITS 100% ────●──── ISSUES 0%
 </table>
 
 </div>
----
 
-<div align="center">
-
-<h2>
-  🐍 GitHub Contribution Snake
-</h2>
-
-<img src="https://raw.githubusercontent.com/bhaskar9832/bhaskar9832/output/github-snake-dark.svg?v=31" alt="GitHub Contribution Snake" />
-
-<br>
-
-<p>
-  <code>Less</code>
-  &nbsp;
-  <span>⬛</span>
-  <span>🟪</span>
-  <span>🟦</span>
-  <span>🟨</span>
-  <span>🟧</span>
-  &nbsp;
-  <code>More</code>
-</p>
-
-<p>
-  Made with 💜 by <b>Bhaskar</b>
-</p>
-
-</div>
