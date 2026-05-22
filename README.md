@@ -157,4 +157,8 @@ COMMITS 100% ────●──── ISSUES 0%
 </table>
 
 </div>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/bhaskar9832/bhaskar9832/output/github-snake-dark.svg" alt="Snake animation" />
+
+</div>
