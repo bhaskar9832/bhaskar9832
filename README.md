@@ -165,7 +165,7 @@ COMMITS 100% ────●──── ISSUES 0%
   🐍 GitHub Contribution Snake
 </h2>
 
-<img src="https://raw.githubusercontent.com/bhaskar9832/bhaskar9832/output/github-snake-dark.svg?v=30" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/bhaskar9832/bhaskar9832/output/github-snake-dark.svg?v=31" alt="GitHub Contribution Snake" />
 
 <br>
 
