@@ -157,8 +157,32 @@ COMMITS 100% ────●──── ISSUES 0%
 </table>
 
 </div>
+---
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bhaskar9832/bhaskar9832/output/github-snake-dark.svg?v=2" alt="Snake animation" />
+<h2>
+  🐍 GitHub Contribution Snake
+</h2>
+
+<img src="https://raw.githubusercontent.com/bhaskar9832/bhaskar9832/output/github-snake-dark.svg?v=30" alt="GitHub Contribution Snake" />
+
+<br>
+
+<p>
+  <code>Less</code>
+  &nbsp;
+  <span>⬛</span>
+  <span>🟪</span>
+  <span>🟦</span>
+  <span>🟨</span>
+  <span>🟧</span>
+  &nbsp;
+  <code>More</code>
+</p>
+
+<p>
+  Made with 💜 by <b>Bhaskar</b>
+</p>
 
 </div>
