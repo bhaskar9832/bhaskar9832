@@ -175,3 +175,7 @@ COMMITS 100% ────●──── ISSUES 0%
 
 </div>
 
+<p align="center">
+  <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0bcad812-5a65-4c74-864e-cbbafda3503e" />
+
+</p>
