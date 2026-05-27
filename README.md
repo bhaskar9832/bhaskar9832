@@ -28,14 +28,14 @@
 </p>
 
 ---
-<div align="center">
+## 🏆 GitHub Trophies
 
-# 🏆 GitHub Trophies
+<p align="center">
+  <img
+    src="https://github-trophies.vercel.app/?username=bhaskar9832&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+  />
+</p>
 
-[![trophy](https://bhaskar-trophy.onrender.com/?username=bhaskar9832&theme=algolia&no-frame=true&row=1&column=7&margin-w=12&margin-h=12&v=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
----
 
 ## 🧭 Philosophy
 I don't talk about goals — I show results.  
