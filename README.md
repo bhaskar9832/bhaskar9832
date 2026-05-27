@@ -28,13 +28,13 @@
 </p>
 
 ---
+<div align="center">
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaskar9832&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+[![trophy](https://bhaskar-trophy.onrender.com/?username=bhaskar9832&theme=algolia&no-frame=true&row=1&column=7&margin-w=12&margin-h=12&v=3)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
 ---
 
 ## 🧭 Philosophy
