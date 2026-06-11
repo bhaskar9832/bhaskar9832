@@ -62,12 +62,7 @@ I'm not chasing perfection; I'm building consistency and resilience.
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaskar9832&theme=tokyonight" />
 
 <br/>
-<br/>
 
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar9832&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=facc15&currStreakLabel=58a6ff" />
-
-<br/>
 <br/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhaskar9832&theme=tokyonight" />
@@ -109,73 +104,3 @@ I'm not chasing perfection; I'm building consistency and resilience.
 
 
 </div>
-
-
-## ⚡ Activity Overview
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🧩 Contributed To</h3>
-
-<table>
-<tr>
-<td>
-
-<p>
-🚀 <a href="https://github.com/bhaskar9832/RentEasy"><b>bhaskar9832/RentEasy</b></a><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Student accommodation finder platform
-</p>
-
-<p>
-⚔️ <a href="https://github.com/bhaskar9832/Codeforces-problem"><b>bhaskar9832/Codeforces-problem</b></a><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Competitive programming solutions
-</p>
-
-<p>
-🧠 <a href="https://github.com/bhaskar9832/HackerRank-problem"><b>bhaskar9832/HackerRank-problem</b></a><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Java-based problem solving practice
-</p>
-
-<p>
-🌌 <a href="https://github.com/bhaskar9832/Leetcode-problem"><b>bhaskar9832/Leetcode-problem</b></a><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;DSA and interview-level coding problems
-</p>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<h3>⚡ Activity Type</h3>
-
-<pre>
-╔════════════════════════════════════╗
-║            CODE REVIEW            ║
-╚════════════════════════════════════╝
-                 │
-                 │
-                 │
-COMMITS 100% ────●──── ISSUES 0%
-                 │
-                 │
-                 │
-╔════════════════════════════════════╗
-║          PULL REQUESTS 0%          ║
-╚════════════════════════════════════╝
-</pre>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0bcad812-5a65-4c74-864e-cbbafda3503e" />
-
-</p>
