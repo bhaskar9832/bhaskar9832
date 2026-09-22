@@ -91,6 +91,3 @@ I'm a software engineer who moves quietly but builds consistently. I learn fast,
 
 I don't talk about goals—I show results. I value truth, accuracy, and discipline. I'm not chasing perfection; I'm building consistency and resilience.
 
-<div align="center">
-  <p><strong>Thanks for visiting! Feel free to connect and explore my repositories. 🚀</strong></p>
-</div>
