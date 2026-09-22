@@ -57,18 +57,6 @@ I'm a software engineer who moves quietly but builds consistently. I learn fast,
 
 ---
 
-## ⚡ GitHub Activity Graph
-
-<!--
-  Use ghchart instead of github-readme-activity-graph.vercel.app. The latter can
-  return an upstream 402 response when its GitHub data provider is unavailable.
--->
-<p align="center">
-  <img src="https://ghchart.rshah.org/00e5ff/bhaskar9832" alt="Bhaskar's GitHub contribution graph" />
-</p>
-
----
-
 ## 🚀 Developer Analytics
 
 <div align="center">
