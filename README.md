@@ -1,7 +1,7 @@
 <!-- HEADER BANNER - STAR WARS STYLE -->
 <p align="center">
   <a href="https://github.com/bhaskar9832">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=900&height=100&lines=Hey+Folks;I+am+Bhaskar+Sarkar;Welcome+to+my+profile" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=900&height=100&lines=Hey+Folks;I+am+Bhaskar+Sarkar;Welc[..." alt="Typing introduction" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ I'm a software engineer who moves quietly but builds consistently. I learn fast,
 
 ---
 
-## ⚡ Overall GitHub Activity
+## ⚡ GitHub Activity Graph
 
 <!--
   Use ghchart instead of github-readme-activity-graph.vercel.app. The latter can
