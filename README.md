@@ -1,11 +1,11 @@
 <!-- HEADER BANNER - STAR WARS STYLE -->
 <p align="center">
   <a href="https://github.com/bhaskar9832">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=900&height=100&lines=Hey+Folks;I+am+Bhaskar+Sarkar;Welcome+to+my+GitHub+Profile" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=900&height=100&lines=Hey+Folks;I+am+Bhaskar+Sarkar;Welcome+to+my+profile" alt="Typing introduction" />
   </a>
 </p>
 
-<h2 align="center">👋 Hello ! I'm Bhaskar</h2>
+<h2 align="center">👋 Hello! I'm Bhaskar</h2>
 <h4 align="center">Full Stack Developer • Backend Focused • System Thinker</h4>
 
 ---
@@ -13,23 +13,9 @@
 ## 🌍 Portfolio & Connect
 
 <div align="center">
-  <a href="https://portfolio-liard-one-2z1y4zam2q.vercel.app/" target="_blank">
+  <a href="https://portfolio-liard-one-2z1y4zam2q.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-</div>
-
----
-
-## 💫 About Me
-
-👨‍💻 I'm a software engineer who moves quietly but builds consistently.  
-I learn fast, notice details others miss, and create systems that work in the real world — not just in theory.
-
----
-
-## 🌐 Socials
-
-<div align="center">
   <a href="https://www.linkedin.com/in/bhaskarsarkar097">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -43,18 +29,14 @@ I learn fast, notice details others miss, and create systems that work in the re
 
 ---
 
+## 💫 About Me
+
+I'm a software engineer who moves quietly but builds consistently. I learn fast, notice details others miss, and create systems that work in the real world—not just in theory.
+
 ## 💻 Tech Stack
 
 <div align="center">
-
-| **Language & Frameworks** | **Databases & ORM** | **Frontend** | **Tools & Platforms** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" /> | | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" /> |
-
+  <img src="https://skillicons.dev/icons?i=c,java,python,spring,nodejs,js,ts,react,html,css,postgres,mongodb,docker,git,github" alt="Technology stack" />
 </div>
 
 ---
@@ -75,19 +57,15 @@ I learn fast, notice details others miss, and create systems that work in the re
 
 ---
 
-## 🧭 Philosophy
-
-I don't talk about goals — I show results.  
-I value truth, accuracy, and discipline.  
-I'm not chasing perfection; I'm building consistency and resilience.
-
----
-
 ## ⚡ Overall GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar9832&theme=react-dark&bg_color=0d1117&color=00e5ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&radius=16&hide_title=true" alt="GitHub Activity Graph" />
-</div>
+<!--
+  Use ghchart instead of github-readme-activity-graph.vercel.app. The latter can
+  return an upstream 402 response when its GitHub data provider is unavailable.
+-->
+<p align="center">
+  <img src="https://ghchart.rshah.org/00e5ff/bhaskar9832" alt="Bhaskar's GitHub contribution graph" />
+</p>
 
 ---
 
@@ -97,18 +75,18 @@ I'm not chasing perfection; I'm building consistency and resilience.
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaskar9832&theme=tokyonight" alt="Profile Details" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhaskar9832&theme=tokyonight" alt="Repos per Language" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhaskar9832&theme=tokyonight" alt="Most Commit Language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhaskar9832&theme=tokyonight" alt="Repositories per language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhaskar9832&theme=tokyonight" alt="Most committed language" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhaskar9832&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhaskar9832&theme=tokyonight" alt="Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhaskar9832&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhaskar9832&theme=tokyonight" alt="GitHub stats" />
 </div>
 
 ---
@@ -117,23 +95,13 @@ I'm not chasing perfection; I'm building consistency and resilience.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bhaskar9832/bhaskar9832/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
-  
-  <br/>
-  
-  <p>
-    <code>Less</code>
-    &nbsp;
-    <span>⬛</span>
-    <span>🟪</span>
-    <span>🟦</span>
-    <span>🟨</span>
-    <span>🟧</span>
-    &nbsp;
-    <code>More</code>
-  </p>
 </div>
 
 ---
+
+## 🧭 Philosophy
+
+I don't talk about goals—I show results. I value truth, accuracy, and discipline. I'm not chasing perfection; I'm building consistency and resilience.
 
 <div align="center">
   <p><strong>Thanks for visiting! Feel free to connect and explore my repositories. 🚀</strong></p>
